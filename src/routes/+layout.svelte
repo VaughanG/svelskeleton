@@ -15,6 +15,10 @@
 			<svelte:fragment slot="lead">
 				<h1>Skeleton</h1>
 			</svelte:fragment>
+			<nav class="flex space-x-1">
+				<a class="btn btn-sm" href="/">Home</a>
+				<a class="btn btn-sm" href="/about">About</a>
+			</nav>
 			<svelte:fragment slot="trail">
 				<a class="btn btn-sm" href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
 			</svelte:fragment>

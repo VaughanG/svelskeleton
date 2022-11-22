@@ -9,7 +9,6 @@
 	</GradientHeading>
 	<br />
 	<Divider borderColor="border-primary-500" borderWidth="border-t-8" borderStyle="border-solid" />
-
 	<br />
 
 	<section class="card card-body">
